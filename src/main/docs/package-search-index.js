@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.geekbrains.hw1.calc"},{"l":"ru.geekbrains.hw1.sample"}];updateSearchResults();
